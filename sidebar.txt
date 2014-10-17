@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ugn:home|Door43 (ugn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ugn|d43-ugn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ugn/archive/master.zip|d43-ugn.zip]]
+
+**Recent Changes**
+{{changes>ns = ugn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ugn|Ethnologue data]]
+
